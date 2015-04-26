@@ -1,0 +1,7 @@
+/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar
+/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-47a01705552fd18b144a520b8a87422e6c764103.jar
+/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2439134a16333454a2e192e08d4464642d44caa7.jar
+/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-47e5e29302cbd9efd4ebbb0a1e27b37437bb28ce.jar
+/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-177cae62f77fde566985736b74135301b2e7dff4.jar
+/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-086db7b646edb632317117960b8b5254ad2d077e.jar

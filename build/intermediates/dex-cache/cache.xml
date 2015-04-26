@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-47e5e29302cbd9efd4ebbb0a1e27b37437bb28ce.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-086db7b646edb632317117960b8b5254ad2d077e.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-47a01705552fd18b144a520b8a87422e6c764103.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/classes-177cae62f77fde566985736b74135301b2e7dff4.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/root/AndroidStudioProjects/MusicPlayer2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2439134a16333454a2e192e08d4464642d44caa7.jar" />
+    </item>
+
+</items>
